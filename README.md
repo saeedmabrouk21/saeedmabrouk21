@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saeed mabrouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed mabrouk" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/saeed mabrouk](https://www.linkedin.com/in/saeed-mabrouk-637a17217/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed mabrouk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saeedmabrouk21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saeedmabrouk21" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/saeedmabrouk21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saeedmabrouk21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saeedmabrouk21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saeedmabrouk21" height="30" width="40" /></a>
